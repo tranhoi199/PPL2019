@@ -1,0 +1,7 @@
+int main(){
+            int a,b,c, d[10],e[9];
+            a = a-10+9*8;
+            d[0] = d[10] - e[9] - foo();
+            return 1;
+            }
+            

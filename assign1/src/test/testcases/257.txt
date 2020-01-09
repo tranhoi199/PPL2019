@@ -1,0 +1,9 @@
+int main() {
+            int a,b,c,d[10];
+            a = a*c;
+            a = d[b+c];
+            do
+            a = a +d[0];
+            while (a || 3 )!= 0;
+            
+            }

@@ -1,0 +1,6 @@
+
+            float a;
+            int[] main(int a, float b[]) {
+            F(3)[5];
+            return;
+            }
