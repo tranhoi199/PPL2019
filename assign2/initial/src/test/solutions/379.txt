@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([VarDecl(a,IntType),VarDecl(b,IntType),VarDecl(c,IntType),BinaryOp(=,Id(a),BinaryOp(*,Id(a),Id(c))),BinaryOp(=,Id(b),BinaryOp(&&,CallExpr(Id(khasd),[BinaryOp(-,BinaryOp(%,ArrayCell(CallExpr(Id(khak),[]),BinaryOp(||,Id(a),BinaryOp(&&,Id(b),BinaryOp(-,Id(c),Id(d))))),IntLiteral(20)),IntLiteral(10))]),Id(a)))]))])

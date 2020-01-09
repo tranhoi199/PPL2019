@@ -1,0 +1,16 @@
+int main() {
+            int a,b[2],c[20];
+            string a1[10], c2[20];
+            a = a*c;
+            b = khasd((khak()[a || b && c - d] % 20) - 10) && a;
+            //-c = (-a/c[0]*c[1])%c[2]+c[3]-c[4] && (c5 || c6);
+            // khong phbai dang vua dau
+            
+            c[20] = c[19]+132.e8;
+            if(a == false)
+            a = "abc";
+            else
+            c = false;
+            c = true + c;
+            a = "xyz\t";
+            }

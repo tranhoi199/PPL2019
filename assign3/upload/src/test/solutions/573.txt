@@ -1,0 +1,1 @@
+Type Mismatch In Statement: For(BinaryOp(==,Id(a),IntLiteral(0));BinaryOp(<,Id(a),IntLiteral(10));BinaryOp(=,Id(a),BinaryOp(+,Id(a),IntLiteral(1)));Block([VarDecl(i,IntType),For(BinaryOp(=,Id(i),IntLiteral(0));BinaryOp(!=,Id(i),IntLiteral(10));BinaryOp(=,Id(i),BinaryOp(-,Id(i),IntLiteral(1)));Block([CallExpr(Id(putString),[StringLiteral(I love PPL and I need to pass it)])]))]))

@@ -1,0 +1,8 @@
+
+            
+            float a,d,e;
+            string b;
+            boolean c;
+            
+            void main() {
+            }

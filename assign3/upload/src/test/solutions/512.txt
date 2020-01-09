@@ -1,0 +1,1 @@
+Type Mismatch In Expression: BinaryOp(=,Id(z),BinaryOp(*,Id(z),FloatLiteral(3.2)))

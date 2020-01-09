@@ -1,0 +1,21 @@
+
+            int main(){
+                boolean arr[10];
+                foo();
+                putString("I want to pass PPL");
+                string a;
+                a="hello";
+                int b;
+                b=5*2+10;
+                return 0;
+                print(a)[3]="print";
+            }
+            int foo(){
+                return 3;
+            }
+            string[] print(string a){ 
+                putString(a);
+                string arr[10];
+                return arr;
+            }
+        

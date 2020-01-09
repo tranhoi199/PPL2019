@@ -1,0 +1,6 @@
+int main(){
+            int a,b,c, d[10];
+            a = a-10+9*8;
+            return 1;
+            }
+            

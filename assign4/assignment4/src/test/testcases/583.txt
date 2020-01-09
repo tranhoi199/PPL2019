@@ -1,0 +1,9 @@
+
+            void main () {
+                float a,b;
+                a = 2.9999;
+                b = 2.9998;
+                boolean gt;
+                gt = (a - b) > 0;
+                putBool(gt);
+            }

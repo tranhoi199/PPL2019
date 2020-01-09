@@ -1,0 +1,1 @@
+Program([VarDecl(a,IntType),VarDecl(c,ArrayType(IntType,10))])

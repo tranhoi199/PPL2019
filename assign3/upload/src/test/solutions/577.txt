@@ -1,0 +1,1 @@
+Type Mismatch In Statement: Dowhile([BinaryOp(=,Id(b),BinaryOp(+,Id(b),Id(c))),Block([BinaryOp(=,Id(d),BinaryOp(*,BinaryOp(*,Id(d),Id(b)),Id(c)))])],BinaryOp(=,Id(d),Id(c)))

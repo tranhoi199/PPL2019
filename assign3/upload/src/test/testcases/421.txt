@@ -1,0 +1,6 @@
+ void main(){}
+                    void foo(int a){
+                        int z;
+                            d;
+                            } 
+                

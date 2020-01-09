@@ -1,0 +1,9 @@
+float fNum;
+         string str2;
+         void main () {
+          boolean isT,isTrue;
+          isT = false;
+          isTrue = false;
+          isT = isTrue = true;
+          putBool(isT);
+         }

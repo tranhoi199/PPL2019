@@ -1,0 +1,8 @@
+
+        int foo(){
+            boolean a;
+
+        return 1;}
+        void main (){
+            foo();
+        }

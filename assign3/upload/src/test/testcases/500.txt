@@ -1,0 +1,17 @@
+
+        void main() {
+            reverse(123456789);
+        }
+        int reverse(int n)
+            {
+                int reverse;
+                reverse=0;
+                do
+                    reverse = reverse*10;
+                    reverse = reverse + n%10;
+                    n = n/10;
+                while (n != 0) ;
+                return reverse;
+            }
+
+        

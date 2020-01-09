@@ -1,0 +1,3 @@
+boolean[] func() {
+        foo(foo(5))
+        temp(temp())}

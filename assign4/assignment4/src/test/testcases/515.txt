@@ -1,0 +1,7 @@
+int a;
+         float b;
+         float fl1[4];
+         int arr[5];
+         string atr[4];
+         void main () { }
+         

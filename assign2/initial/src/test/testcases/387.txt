@@ -1,0 +1,10 @@
+int a;
+            float bb;
+            string c;
+            int d[10];
+            void main(){
+            {
+            
+            }
+            return;
+            }

@@ -1,0 +1,7 @@
+
+         float frr[4];
+         void main () {
+          frr[0] = 1.43;
+          putFloatLn(frr[0]);
+         }
+         

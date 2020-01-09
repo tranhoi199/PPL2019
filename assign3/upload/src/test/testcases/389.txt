@@ -1,0 +1,1 @@
+int main(){int aa,bb,cc,d;}

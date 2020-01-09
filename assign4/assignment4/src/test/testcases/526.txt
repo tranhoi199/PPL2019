@@ -1,0 +1,8 @@
+
+        float b[5];
+         void main () {  
+            boolean a;
+             a = 3 > 2;
+             putBool(a);
+         }
+         

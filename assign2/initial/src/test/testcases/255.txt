@@ -1,0 +1,7 @@
+int main() {
+            int a,b,c,d[10];
+            a = a*c;
+            a = d[b+c];
+            
+            return foo(10)[0];
+            }

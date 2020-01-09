@@ -1,0 +1,5 @@
+
+        int b;
+        void main() {
+            int a;
+            putFloat(10.1);}

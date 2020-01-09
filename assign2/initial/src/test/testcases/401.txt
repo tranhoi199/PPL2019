@@ -1,0 +1,10 @@
+
+            int main(){
+            do
+            int i;
+            break;
+            return;
+            while i=1;
+            }
+            
+            

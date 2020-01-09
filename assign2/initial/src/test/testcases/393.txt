@@ -1,0 +1,3 @@
+int main(){
+            boolean bool; boo[2]=false;
+            }

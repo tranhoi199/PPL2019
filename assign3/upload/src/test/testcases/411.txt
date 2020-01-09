@@ -1,0 +1,11 @@
+
+        int foo(){
+        int foo;
+        return 0;}
+        void main (){
+            int foo; 
+        }
+        int foo2(int foo){ 
+        return 0;}
+        int foo2(int foo){ 
+        return 0;}

@@ -1,0 +1,8 @@
+
+        int foo(){
+        int a;
+        return a;}
+        void main (){
+            
+        }
+        string foo2(){ return 0;}

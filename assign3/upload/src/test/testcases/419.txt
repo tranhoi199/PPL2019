@@ -1,0 +1,10 @@
+
+            int x;
+            int y;
+            int swap(int a,int b, boolean a){
+                return 1;
+            }
+            void main(){
+                swap(1,2,true);
+            }
+         

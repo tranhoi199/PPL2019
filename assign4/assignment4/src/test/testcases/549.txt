@@ -1,0 +1,11 @@
+
+            void main () {
+             float a;
+             a = ab(2);
+             putFloat(a);
+            }
+            float ab(int a){
+            if(a==2)
+             return 2*2;
+            return 2.0;
+        }

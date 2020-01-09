@@ -1,0 +1,8 @@
+
+        float b[5];
+         void main () {  
+             float a;
+             a = 10 - 20;
+             putFloat(a);
+         }
+         

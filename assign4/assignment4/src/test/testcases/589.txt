@@ -1,0 +1,6 @@
+int a;
+         float b;
+         void main () {
+             int b,c;
+         }
+         boolean c;

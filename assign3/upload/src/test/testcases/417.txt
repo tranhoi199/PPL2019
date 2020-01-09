@@ -1,0 +1,7 @@
+
+        int foo(){
+            a;
+        return 1;}
+        void main (){
+            
+        }

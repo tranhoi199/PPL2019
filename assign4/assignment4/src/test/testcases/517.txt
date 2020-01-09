@@ -1,0 +1,9 @@
+
+        float b[5];
+        int a;
+         void main () {  
+             
+             a = 10;
+             putInt(a);
+         }
+         

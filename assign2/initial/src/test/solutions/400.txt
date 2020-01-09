@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([Return(),Return(),VarDecl(<missing IDEN>,IntType)]))])

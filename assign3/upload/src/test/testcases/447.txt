@@ -1,0 +1,10 @@
+
+        void foo(){
+            foo();
+        }
+
+        void foo1(){
+            foo();
+        }
+        void main(){ }
+        

@@ -1,0 +1,8 @@
+
+            void main () {
+                boolean a,b,c;
+                b = false;
+                c = true;
+                a = b && (1 / 0);
+                putBool(a);
+            }

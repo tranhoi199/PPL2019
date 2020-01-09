@@ -1,0 +1,6 @@
+
+        int foo(){}
+        void main (){
+            if (1) a();
+        }
+        int foo2(){ return 0;}

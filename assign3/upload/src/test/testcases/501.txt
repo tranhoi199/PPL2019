@@ -1,0 +1,6 @@
+
+        int foo;
+        void main(){
+            foo[3];
+        }
+        

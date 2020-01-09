@@ -1,0 +1,10 @@
+
+            void main () {
+                int a;
+                a = 1;
+                do{
+                    putInt(a);
+                    putInt(a*2);
+                    a=a+1;
+                } while(a<0);
+            }

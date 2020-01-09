@@ -1,0 +1,9 @@
+
+                    void main(){
+                        int i;
+                        i="ABC"-1/82.365e-1%t*2+funcall(funcall1(i*o+funcall2(2+3)));
+                        string s;
+                        s="ABCXYZ";
+                        s=test(s+"xuy");                                              
+                    }
+                

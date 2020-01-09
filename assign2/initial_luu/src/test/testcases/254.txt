@@ -1,0 +1,6 @@
+int main() {
+            int a,b,c;
+            a = a*c;
+            b = khasd((khak()[a || b && c - d] % 20) - 10) && a;
+            
+            }

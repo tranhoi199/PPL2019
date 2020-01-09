@@ -1,0 +1,9 @@
+
+            float a,b,c;
+            void main () {
+                boolean a,b,c;
+                b = true;
+                c = true;
+                a = b || false || (1 / 0);
+                putBoolLn(a);
+            }

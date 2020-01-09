@@ -1,0 +1,7 @@
+
+        void main(){
+            if (div(5,2)){}
+            else {}
+        }
+        void print(){}
+        
