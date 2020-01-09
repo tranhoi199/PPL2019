@@ -1,1 +1,0 @@
-Program([VarDecl(Id(a),FloatType),VarDecl(Id(c),ArrayType(FloatType,10))])

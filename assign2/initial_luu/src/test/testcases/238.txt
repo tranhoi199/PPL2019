@@ -1,7 +1,0 @@
-int main() {
-            int a,b,c,d[10];
-            a = a*c;
-            foo(2)[3+x] = a[b[2]] + 3 ;
-            a = a+b;
-            
-            }

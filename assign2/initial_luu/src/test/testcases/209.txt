@@ -1,8 +1,0 @@
-
-            float hk(){
-            float a,d,e,i[10];
-            string b;
-            boolean c;
-            }
-            void main() {
-            }

@@ -1,2 +1,0 @@
-boolean a,c[10]; int a,b;string c[10];
-            

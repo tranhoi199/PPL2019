@@ -1,1 +1,0 @@
-Program([VarDecl(Id(a),BoolType),VarDecl(Id(c),ArrayType(BoolType,10))])

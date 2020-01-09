@@ -1,9 +1,0 @@
-
-            int[] foo(){
-            return k;
-            }
-            int main() {
-            int a;
-            a=getFloat();
-            putString(foo(3)[1]);
-            }

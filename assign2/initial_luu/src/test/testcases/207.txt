@@ -1,6 +1,0 @@
-
-            float a;
-            string b;
-            boolean c;
-            void main() {
-            }

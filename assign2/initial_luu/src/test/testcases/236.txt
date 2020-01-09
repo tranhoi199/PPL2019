@@ -1,6 +1,0 @@
-int main() {
-            int a,b,c,d[10];
-            a = a*c;
-            a = b = c;
-            
-            }
