@@ -9,9 +9,9 @@ In **assignment 1**, we used [ANTLR](https://www.antlr.org/) to implement a lexe
 **Assignment 3**
 
  - We wrote a Static Check
- - Like other languages, we can compile it, it must have no any errors and if we have any errors like: Not declared variable, function not define or duplicate declaration. If it does, error will throw. 
+ - Like other languages, we can compile it, it must have no errors and if we have any errors like: Not declared variable, function not define or duplicate declaration. If it does, the error will throw. 
 
-I think Assignment 3 is the most complicate in our assignment. If you grasp of 3 assignment. I definily believe you will easily complete assignment 4. 
+I think Assignment 3 is the most complicated in our assignment. If you grasp of 3 assignments. I definitely believe you will easily complete assignment 4. 
 
 **Assignment 4**
 
@@ -22,6 +22,6 @@ I think Assignment 3 is the most complicate in our assignment. If you grasp of 3
 
 For your information, I receive **9.8/10** on average of 4 assignments. For particular **Assignment 1** and **Assignment 2**, I received a **10/10** grade.  You can trust this source code if you beleive it. 
 
-Documentations for the particular assignment, I already uploaded, you can refer it for more detail. 
+Documentations for the particular assignment, I already uploaded, you can refer to it for more detail. 
 
 If you have any questions, you can contact me via my email. 
